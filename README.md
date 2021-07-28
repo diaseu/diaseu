@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy building things that transform problems into beautiful solutions. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I believe in intentional empathetic design applied to both code, web design and user experience.
 
-<b>Check out my most <a href="https://github.com/diaseu/project3">recent project</a>.</b>
+<b>Check out my most recent project <a href="https://github.com/diaseu/project3">Zap 1.0</a>.</b>
 
 - 🖥️ I’m currently working on: <a href="https://github.com/diaseu/project3">Zap 2.0</a>
 - 🌱 I’m currently studying: React
