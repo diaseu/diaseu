@@ -6,7 +6,7 @@ I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy bui
 
 - 🖥️ My last project: <a href="https://github.com/diaseu/213bvah">213BVAH</a> - <a href="https://www.213bvah.com/">Beverly Virgil Animal Hospital</a>
 - 🌱 I’m currently studying: AWS Certifications
-- 🔍 I’m looking to: Expand my knowledge next into AngularJS
+- 🔍 I’m looking for: Opportunities to grow and get better!
 - ⚡ Fun fact: Currently typing on a Lazydesigner Bolt40 keyboard!
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/diaseu">linkedin.com/in/diaseu</a>
 
