@@ -2,12 +2,12 @@
 
 I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy building things that transform problems into beautiful solutions. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I believe in intentional empathetic design applied to both code, web design and user experience.
 
-<b>Check out my most recent project <a href="https://github.com/diaseu/project3">Zap 1.0</a>.</b>
+<b>Please also see my other github account <a href="https://github.com/dianaseung">dianaseung</a> for my Liferay-related projects.</b>
 
-- 🖥️ I’m currently working on: <a href="https://github.com/diaseu/project3">Zap 2.0</a>
-- 🌱 I’m currently studying: React
+- 🖥️ My last project: <a href="https://github.com/diaseu/213bvah">213BVAH</a> - <a href="https://www.213bvah.com/">Beverly Virgil Animal Hospital</a>
+- 🌱 I’m currently studying: AWS Certifications
 - 🔍 I’m looking to: Expand my knowledge next into AngularJS
-- ⚡ Fun fact: 다이 입니다! 
+- ⚡ Fun fact: Currently typing on a Lazydesigner Bolt40 keyboard!
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/diaseu">linkedin.com/in/diaseu</a>
 
 <br>
