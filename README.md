@@ -1,6 +1,6 @@
 ### ✨ Hi, I'm Dia!
 
-I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy building things that transform problems into beautiful solutions. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I believe in intentional empathetic design applied to both code, web design and user experience.
+I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy building things that transform problems into beautiful solutions. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I'm interested in learning whatever it takes!
 
 <b>Please also see my other github account <a href="https://github.com/dianaseung">dianaseung</a> for my Liferay-related projects.</b>
 
