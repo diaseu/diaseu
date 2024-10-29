@@ -4,7 +4,7 @@ I'm a Full-Stack Software Engineer with a passion to grow and get better!  I enj
 
 <b>Please also see my other github account <a href="https://github.com/dianaseung">dianaseung</a> for my Liferay-related projects.</b>
 
-- 🖥️ My last project: <a href="https://github.com/diaseu/213bvah">213BVAH</a> - <a href="https://www.213bvah.com/">Beverly Virgil Animal Hospital</a>
+- 🖥️ My last project: <a href="https://github.com/diaseu/vendomatic">Vendomatic</a> - <a href="https://vendomatic-c7e284179e09.herokuapp.com/">Vendomatic on Heroku</a>
 - 🌱 I’m currently studying: Google Cloud / AWS Certifications; CS50
 - 🔍 I’m looking for: Opportunities to grow and get better!
 - ⚡ Fun fact: Currently typing on a Lazydesigner <a href="https://i.imgur.com/2iwU9dD.jpeg">Bolt40</a> keyboard!
