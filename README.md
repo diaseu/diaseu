@@ -1,13 +1,13 @@
 ### ✨ Hi, I'm Dia!
 
-I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy building things that transform problems into beautiful solutions. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I'm interested in learning whatever it takes!
+I'm a Full-Stack Software Engineer with a passion to grow and get better!  I enjoy building things, solving problems and . My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I'm interested in learning whatever it takes!
 
 <b>Please also see my other github account <a href="https://github.com/dianaseung">dianaseung</a> for my Liferay-related projects.</b>
 
 - 🖥️ My last project: <a href="https://github.com/diaseu/213bvah">213BVAH</a> - <a href="https://www.213bvah.com/">Beverly Virgil Animal Hospital</a>
-- 🌱 I’m currently studying: AWS Certifications
+- 🌱 I’m currently studying: Google Cloud / AWS Certifications; CS50
 - 🔍 I’m looking for: Opportunities to grow and get better!
-- ⚡ Fun fact: Currently typing on a Lazydesigner Bolt40 keyboard!
+- ⚡ Fun fact: Currently typing on a Lazydesigner <a href="https://i.imgur.com/2iwU9dD.jpeg">Bolt40</a> keyboard!
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/diaseu">linkedin.com/in/diaseu</a>
 
 <br>
@@ -24,12 +24,5 @@ I'm a Full-Stack Web Developer with a passion to design and create.  I enjoy bui
 <img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
 <img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-
-<br><br><br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diaseu)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaseu&layout=compact)
