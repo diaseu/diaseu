@@ -1,6 +1,6 @@
 ### ✨ Hi, I'm Dia!
 
-I'm a Full-Stack Software Engineer with a passion to grow and get better!  I enjoy building things, solving problems and . My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I'm interested in learning whatever it takes!
+I'm a Full-Stack Software Engineer with a passion to grow and get better!  I enjoy building things, solving problems and sharing knowledge. My tools of the trade include React, Node.JS, SQL/NoSQL, Javascript/jQeury, and HTML5/CSS3. I'm ready to learn whatever it takes to get the task done!
 
 <b>Please also see my other github account <a href="https://github.com/dianaseung">dianaseung</a> for my Liferay-related projects.</b>
 
